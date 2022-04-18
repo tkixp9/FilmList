@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilmList</string>
+    <string name="category">分类</string>
+    <string name="film_c_huayu">华语</string>
+    <string name="film_c_ao">欧美</string>
+    <string name="film_c_ja">日本</string>
+</resources>
